@@ -1,4 +1,3 @@
-<img align='right' width="57%" src="https://github.com/user-attachments/assets/ef979c33-4c3c-4801-8714-7d263f62e138" alt="ilustração do status do github">
 
 ### Olá, meu nome é Julia!
 
