@@ -27,8 +27,6 @@
 ## 🚀 Minhas Skills
 <p>Essas são algumas das tecnologias e ferramentas que venho aprendendo e utilizando no meu dia a dia como desenvolvedora!✨</p>
 
-</br>
-
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,c,cs,cpp&theme=light)](https://skillicons.dev)
 
