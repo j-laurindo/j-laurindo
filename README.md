@@ -93,7 +93,7 @@ Linguagens & Tecnologias: `C`, `C++`, `JavaScript`, `HTML5`, `CSS`, `MySQL`, `Re
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFXGfJGDomMP9aSV_vJi2w_m17dVyR8udPA&s"/>](https://www.bosch.com.br/)
 
 **Aprendiz de Soluções Digitais** \
-[**Bosch Campinas**](https://rocketseat.com.br/) • Contratada \
+[**Bosch Campinas**](https://www.bosch.com.br/) • Contratada \
 Linguagens & Tecnologias: `Python`, `Java`, `React`, `HTML5`, `CSS`, `JavaScript`\
 </br>
 
