@@ -1,11 +1,109 @@
-<h1 align="center">Olá 👋, sou a Julia Laurindo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align='right' width="57%" src="https://github.com/user-attachments/assets/ef979c33-4c3c-4801-8714-7d263f62e138" alt="ilustração do status do github">
 
-<h3 align="left">Connect with me:</h3>
+### Olá, meu nome é Julia!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=j-laurindo&color=9b59b6&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Empresa&message=Bosch%20Campinas&color=9b59b6&style=for-the-badge&logo=bosch&logoColor=white" />
+
+- 💻 Julia Laurindo  
+- 🌸 19 anos | 📍 Brasil  
+- 🏢 Bosch Campinas – Digital Solutions 
+- 🎓 Técnica em Desenvolvimento de Sistemas
+- 🏫 SENAI Roberto Mange
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/julia-laurindo-65312a326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julia-laurindo-65312a326/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_jlaurind0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_jlaurind0/" height="30" width="40" /></a>
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=juliarobertslaurindodasilva@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-laurindo-65312a326/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_jlaurind0/" alt="Instagram"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</br>
+
+----
+
+
+## 🚀 Minhas Skills
+<p>Essas são algumas das tecnologias e ferramentas que venho aprendendo e utilizando no meu dia a dia como desenvolvedora!✨</p>
+
+</br>
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,c,cs,cpp&theme=light)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap&theme=light)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase&theme=light)](https://skillicons.dev)
+
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,figma,androidstudio,pycharm,idea,arduino&theme=light)](https://skillicons.dev)<br><br>
+
+</br>
+
+----
+
+## ⭐ GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=j-laurindo&theme=buefy&show_icons=true&hide_border=true&count_private=true" 
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=j-laurindo&theme=buefy&hide_border=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-laurindo&theme=buefy&show_icons=true&hide_border=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+</br>
+
+----
+
+## 📚 Minhas Experiências
+
+Na visão geral abaixo você encontrará minhas experiências no mundo da tecnologia:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://leonardo-energy.org.br/wp-content/uploads/2017/07/LOGO-ETEC.jpg"/>](https://etechortolandia.cps.sp.gov.br/)
+
+**Ensino Médio com Técnico em Desenvolvimento de Sistemas** \
+[**Etec de Hortolândia**](https://etechortolandia.cps.sp.gov.br/) • 2022 - 2024 \
+Linguagens & Tecnologias: `C`, `C++`, `JavaScript`, `HTML5`, `CSS`, `MySQL`, `React`, `React Native`, `NodeJS`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFXGfJGDomMP9aSV_vJi2w_m17dVyR8udPA&s"/>](https://www.bosch.com.br/)
+
+**Aprendiz de Soluções Digitais** \
+[**Bosch Campinas**](https://rocketseat.com.br/) • Contratada \
+Linguagens & Tecnologias: `Python`, `Java`, `React`, `HTML5`, `CSS`, `JavaScript`\
+</br>
+
+</br>
+
+---
+
+## 💬 Encerramento
+
+Obrigada por visitar meu perfil! ✨  
+Se você se interessou pelo meu trabalho, vamos nos conectar! Estou sempre aberta a novas oportunidades, projetos e trocas de conhecimento. 💜🚀
+
+</br>
