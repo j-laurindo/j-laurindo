@@ -28,7 +28,7 @@
 <p>Essas são algumas das tecnologias e ferramentas que venho aprendendo e utilizando no meu dia a dia como desenvolvedora!✨</p>
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=html,javascript,java,python,c,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,javascript,java,python,c&theme=light)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap&theme=light)](https://skillicons.dev)
@@ -37,7 +37,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,firebase&theme=light)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,figma,androidstudio,pycharm,idea,arduino&theme=light)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,pycharm,idea,arduino&theme=light)](https://skillicons.dev)<br><br>
 
 </br>
 
